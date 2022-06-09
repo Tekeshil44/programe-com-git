@@ -1,6 +1,6 @@
-# Curso Introdução ao Git!
+# Curso Introdução ao Git e GitHub!
 
-Códigos feitos para o curso/playlist de Curso Introdução ao Git!, no canal RinaldoDev do YouTube.
+Códigos feitos para o curso/playlist de Curso Introdução ao Git e GitHub!, no canal RinaldoDev do YouTube.
 
 * Playlist no YouTube: https://www.youtube.com/playlist?list=PLuYctAHjg89bR5PgaAlyGCl2PWMPDMzFN
 * Canal no YouTube: https://www.youtube.com/rinaldodev
